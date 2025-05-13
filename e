@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Комикс про космос</title>
+        <link rel="stylesheet" href="stylea.css"/>
+    </head>
+    <body>
+        <header>
+            <p class="golova">Комикс про космос</p>
+        </header>
+        <main>
+            <img src="https://img.freepik.com/premium-vector/rocket-isolated-white-background_114835-24062.jpg" width="700px">
+            <p class="Pone">1. Как-то раз в далёком космосе <br>космические путешественники</p>
+            <img src="https://avatars.mds.yandex.net/i?id=ef93205acbbcb2f5fa43071f59af996ebee70586-5022652-images-thumbs&n=13" height="700px" width="550px">
+            
+            <p class="Ptwo">2. Полетели в другую галактику</p>
+            <img src="https://i.pinimg.com/736x/6f/09/59/6f095926caf0f10181f50a91bbe08ba2.jpg" width="900px">
+            <p class="Pthree">3. Планета-Морковка?!</p>
+            <aside>
+                <h1>Сделано в Алгоритмике</h1>
+                <h6>Made in Algoritmica</h6>
+            </aside>
+            <a href=""><p>Далее</p></a>
+        </main>
+        <footer>
+            <p>Сделано в Ярославле </p>
+        </footer>
+    </body>
+</html>
